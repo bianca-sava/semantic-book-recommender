@@ -23,13 +23,6 @@ Built with **[Guardio](https://guardio.io/)** for the dashboard interface.
 
 ---
 
-## Demo  
-
-![Demo Screenshot](demo.png)  
-*(Replace with a screenshot or gif of your dashboard)*  
-
----
-
 ## Tech Stack  
 
 - **Guardio** – Dashboard framework  
