@@ -3,7 +3,7 @@
 A smart book discovery tool that goes beyond keywords.  
 This dashboard uses **semantic search**, **zero-shot classification**, and **sentiment analysis** to help you find books that truly match your needs.  
 
-Built with **[Guardio](https://guardio.io/)** for the dashboard interface.  
+Built with Guardio for the dashboard interface.  
 
 ---
 
